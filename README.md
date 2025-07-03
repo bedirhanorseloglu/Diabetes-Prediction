@@ -1,7 +1,5 @@
 # Diyabet Tahmin Modeli
 
-![Diyabet Görseli](https://img.freepik.com/free-vector/diabetes-prevention-illustration_23-2148501894.jpg?w=800&t=st=1656789012~exp=1656789612~hmac=1f1a1b1b1b1b1b1b1b1b1b1b1b1b1b1b1b1b1b1b1b1b1b1b1b1b1b1b1b1b1b1b1b1b1)
-
 ## 📋 Proje Hakkında
 Bu proje, makine öğrenmesi kullanarak diyabet hastalığının tahmin edilmesi amacıyla geliştirilmiştir. Çeşitli sağlık metriklerine dayanarak kişilerin diyabet olma olasılığını tahmin etmek için bir model eğitilmiştir.
 
